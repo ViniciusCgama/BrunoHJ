@@ -1,0 +1,10 @@
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_has-service-order.Tests
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_has-service-order.Tests
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.csproj.AssemblyReference.cache
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.AssemblyInfoInputs.cache
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.AssemblyInfo.cs
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.csproj.CoreCompileInputs.cache
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.gentestingplatformentrypointinputcache.cache
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\TestPlatformEntryPoint.cs
+D:\vk 3ds\Has-Service-Order\has-service-order.Tests\obj\Debug\net8.0\has-service-order.Tests.sourcelink.json
