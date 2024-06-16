@@ -1,4 +1,6 @@
-﻿namespace OsDsII.api.Dtos
+﻿using OsDsII.api.Dtos.ServiceOrders;
+
+namespace OsDsII.api.Dtos.Customers
 {
     public record CustomerDto(int Id, string Name, string Email, string Phone, List<ServiceOrderDto>? ServiceOrders)
     {

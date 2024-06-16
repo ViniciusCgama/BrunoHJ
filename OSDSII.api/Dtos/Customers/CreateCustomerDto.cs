@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace OsDsII.api.Dtos
+namespace OsDsII.api.Dtos.Customers
 {
     public record CreateCustomerDto
     {

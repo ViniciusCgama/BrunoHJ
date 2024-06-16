@@ -1,6 +1,7 @@
-﻿using OsDsII.api.Models;
+﻿using OsDsII.api.Dtos.Comments;
+using OsDsII.api.Models;
 
-namespace OsDsII.api.Dtos
+namespace OsDsII.api.Dtos.ServiceOrders
 {
     public record ServiceOrderDto(
         int Id,

@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
-using OsDsII.api.Dtos;
+using OsDsII.api.Dtos.Customers;
+using OsDsII.api.Dtos.ServiceOrders;
 using OsDsII.api.Models;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
